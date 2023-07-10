@@ -1,0 +1,11 @@
+body{
+    font-family: 'Pathway Extreme', sans-serif;
+}
+
+.first{
+    background-color:#d3d3d3 ;
+    height: 100vh;
+    width: 100vw;
+    font-size: 30px;
+    font-weight: 400;
+}
