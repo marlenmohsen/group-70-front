@@ -1,0 +1,12 @@
+.card{
+    border: 2px solid darkgrey;
+}
+.ss{
+    height: 290px;
+    width: 288px;
+    background-color: black;
+    color: white;
+    padding: 100px;
+    box-sizing: border-box;
+    
+}
